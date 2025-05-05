@@ -25,11 +25,11 @@ author:
   avatar           : "personal_img.jpg"
   name             : "Haoyu Jia"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+#  bio              : "Short biography for the left-hand sidebar"
+#  location         : "Earth"
+#  employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jiahaoyu@tju.edu.cn"
 
   # Academic websites
   academia         : # URL
